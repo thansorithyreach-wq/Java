@@ -1,0 +1,24 @@
+com.example.appconnect
+color background_color
+color button_text
+color field_border
+color logo_background
+color muted_color
+color primary_color
+color white_color
+drawable active_field_background
+drawable field_background
+drawable icon_eye
+drawable icon_eye_off
+drawable icon_lock
+drawable icon_user
+drawable login_button
+drawable logo_circle
+drawable logo_mark
+id emailEditText
+id forgotPasswordText
+id loginButton
+id passwordEditText
+id showPasswordButton
+layout activity_main
+style AppTheme

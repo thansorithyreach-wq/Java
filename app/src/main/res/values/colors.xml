@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#1D2223</color>
+    <color name="primary_color">#68B5B4</color>
+    <color name="field_border">#667273</color>
+    <color name="white_color">#F4F4F4</color>
+    <color name="muted_color">#C9CECE</color>
+    <color name="logo_background">#293D3E</color>
+    <color name="button_text">#101718</color>
+</resources>

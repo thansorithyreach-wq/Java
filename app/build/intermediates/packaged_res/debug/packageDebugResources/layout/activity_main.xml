@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:fillViewport="true"
+    android:overScrollMode="never">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:paddingStart="22dp"
+        android:paddingTop="64dp"
+        android:paddingEnd="22dp"
+        android:paddingBottom="24dp">
+
+        <ImageView
+            android:layout_width="78dp"
+            android:layout_height="78dp"
+            android:background="@drawable/logo_circle"
+            android:contentDescription="App Connect logo"
+            android:padding="10dp"
+            android:src="@drawable/logo_mark" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="App Connect"
+            android:textColor="@color/white_color"
+            android:textSize="24sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="Welcome back!"
+            android:textColor="@color/white_color"
+            android:textSize="28sp" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="62dp"
+            android:layout_marginTop="28dp">
+
+            <EditText
+                android:id="@+id/emailEditText"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="@drawable/active_field_background"
+                android:drawableStart="@drawable/icon_user"
+                android:drawablePadding="10dp"
+                android:hint="johndoe@email.com"
+                android:inputType="textEmailAddress"
+                android:paddingStart="14dp"
+                android:paddingEnd="14dp"
+                android:textColor="@color/white_color"
+                android:textColorHint="@color/muted_color"
+                android:textSize="16sp"
+                android:text="johndoe@email.com" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="14dp"
+                android:background="@color/background_color"
+                android:paddingStart="2dp"
+                android:paddingEnd="2dp"
+                android:text="Email or Username"
+                android:textColor="@color/primary_color"
+                android:textSize="14sp" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="62dp"
+            android:layout_marginTop="18dp">
+
+            <EditText
+                android:id="@+id/passwordEditText"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="@drawable/field_background"
+                android:drawableStart="@drawable/icon_lock"
+                android:drawablePadding="10dp"
+                android:hint="••••••••••"
+                android:inputType="textPassword"
+                android:paddingStart="14dp"
+                android:paddingEnd="48dp"
+                android:textColor="@color/white_color"
+                android:textColorHint="@color/white_color"
+                android:textSize="16sp"
+                android:text="password12" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="14dp"
+                android:background="@color/background_color"
+                android:paddingStart="2dp"
+                android:paddingEnd="2dp"
+                android:text="Password"
+                android:textColor="@color/muted_color"
+                android:textSize="14sp" />
+
+            <ImageButton
+                android:id="@+id/showPasswordButton"
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:layout_gravity="end|center_vertical"
+                android:layout_marginEnd="5dp"
+                android:background="@android:color/transparent"
+                android:contentDescription="Show password"
+                android:padding="10dp"
+                android:src="@drawable/icon_eye_off" />
+        </FrameLayout>
+
+        <Button
+            android:id="@+id/loginButton"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/login_button"
+            android:text="Log In"
+            android:textAllCaps="false"
+            android:textColor="@color/button_text"
+            android:textSize="17sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/forgotPasswordText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Forgot Password?"
+            android:textColor="@color/primary_color"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+</ScrollView>

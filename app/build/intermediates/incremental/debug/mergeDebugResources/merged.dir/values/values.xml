@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#1D2223</color>
+    <color name="button_text">#101718</color>
+    <color name="field_border">#667273</color>
+    <color name="logo_background">#293D3E</color>
+    <color name="muted_color">#C9CECE</color>
+    <color name="primary_color">#68B5B4</color>
+    <color name="white_color">#F4F4F4</color>
+    <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/background_color</item>
+        <item name="android:navigationBarColor">#080D0E</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:colorAccent">@color/primary_color</item>
+        <item name="android:windowBackground">@color/background_color</item>
+    </style>
+</resources>

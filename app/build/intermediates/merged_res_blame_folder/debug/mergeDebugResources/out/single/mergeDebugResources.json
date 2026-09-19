@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-debug-3:\\drawable_login_button.xml.flat",
+        "source": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-main-5:\\drawable\\login_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-debug-3:\\drawable_icon_eye_off.xml.flat",
+        "source": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-main-5:\\drawable\\icon_eye_off.xml"
+    },
+    {
+        "merged": "com.example.appconnect.app-debug-3:/drawable_login_button.xml.flat",
+        "source": "com.example.appconnect.app-main-5:/drawable/login_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-debug-3:\\drawable_logo_mark.xml.flat",
+        "source": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-main-5:\\drawable\\logo_mark.xml"
+    },
+    {
+        "merged": "com.example.appconnect.app-debug-3:/drawable_active_field_background.xml.flat",
+        "source": "com.example.appconnect.app-main-5:/drawable/active_field_background.xml"
+    },
+    {
+        "merged": "com.example.appconnect.app-debug-3:/layout_activity_main.xml.flat",
+        "source": "com.example.appconnect.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.appconnect.app-debug-3:/drawable_field_background.xml.flat",
+        "source": "com.example.appconnect.app-main-5:/drawable/field_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-debug-3:\\drawable_active_field_background.xml.flat",
+        "source": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-main-5:\\drawable\\active_field_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-debug-3:\\drawable_field_background.xml.flat",
+        "source": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-main-5:\\drawable\\field_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-debug-3:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-main-5:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-debug-3:\\drawable_icon_eye.xml.flat",
+        "source": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-main-5:\\drawable\\icon_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-debug-3:\\drawable_icon_user.xml.flat",
+        "source": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-main-5:\\drawable\\icon_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-debug-3:\\drawable_icon_lock.xml.flat",
+        "source": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-main-5:\\drawable\\icon_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-debug-3:\\drawable_logo_circle.xml.flat",
+        "source": "C:\\Users\\REACH\\.gradle\\daemon\\9.7.1\\com.example.appconnect.app-main-5:\\drawable\\logo_circle.xml"
+    }
+]
